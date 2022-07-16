@@ -36,7 +36,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/rodgomesc/vision-camera-code-scanner",
+  "repository": "https://github.com/hashaneranda/vision-camera-code-scanning",
   "author": "Hashan Jayalath <hashaneranda@gmail.com> (https://github.com/hashaneranda)",
   "license": "MIT",
   "bugs": {
